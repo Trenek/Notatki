@@ -97,8 +97,3 @@
   * Adapter
   * Decorator
   * Visitor
-# Wzorce Projektowe
-## Abstract Factory (Fabryka Abstrakcyjna)
-  * Wzorzec obiektowy
-  * Wzorzec konstrukcyjny
-  
