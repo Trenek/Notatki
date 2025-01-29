@@ -1,4 +1,4 @@
-# Wzorce Operacyjno-Czynnościowe
+# Wzorce Operacyjne/Czynnościowe
 ## Chain Of Responsibility (Łańcuch odpowiedzialności/zobowiązań)
   Uniknięcie wiązania nadawcy żądania z odbiorcą poprzez umożliwienie większej liczbie obiektów obsłużenia tego żądania.
   Obiekty odbiorcze są łączone w łańcuch, wzdłuż którego przekazywane jest żądanie do momentu obsłużenia go.
