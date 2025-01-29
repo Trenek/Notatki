@@ -22,17 +22,17 @@
 ## Proxy (Pełnomocnik)
   Dostarczenie zastępnika lub reprezentanta innego obiektu w celu kontrolowania dostępu do tego obiektu.
   ### Remote Proxy (Pośrednik Zdalny)
-    Lokalny reprezentant obiektu z innej przestrzeni adresowej
+  Lokalny reprezentant obiektu z innej przestrzeni adresowej
   ### Virtual Proxy (Pośrednik wirtualny)
-    Pośrednik tworzący kosztowne obiekty na żądanie
+  Pośrednik tworzący kosztowne obiekty na żądanie
   ### Protection Proxy (Pośrednik zabezpieczający)
-    Autoryzujący dostęp do obiektu oryginalnego (gdy obiekty powinny mieć różne prawa dostępu).
+  Autoryzujący dostęp do obiektu oryginalnego (gdy obiekty powinny mieć różne prawa dostępu).
   ### Cache Proxy (Pośrednik schowek)
-    Składający rezultaty odwołań do zdalnych komponentów do wykorzystania przez wielu lokalnych klientów.
+  Składający rezultaty odwołań do zdalnych komponentów do wykorzystania przez wielu lokalnych klientów.
   ### Synchronization Proxy (Pośrednik synchronizujący)
-    Współbieżny dostęp do komponentu
+  Współbieżny dostęp do komponentu
   ### Firewall proxy (Pośrednik-ściana ogniowa)
-    Chroniący lokalnych klientów przed światem zewnętrznym
+  Chroniący lokalnych klientów przed światem zewnętrznym
   ### Smart reference (Inteligentna referencja)
   Zastępująca zwykłe odniesienie i wykonująca dodatkowe operacje przy dostępie do obiektu, np:
   * Zliczanie referencji do rzeczywistego obiektu tak, że może być on usunięty automatycznie kiedy nie ma już do niego żadnych referencji (tzw. inteligentny wskaźnik - smart pointer)
